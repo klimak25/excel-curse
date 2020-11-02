@@ -10,7 +10,8 @@
     "comma-dangle": "off",
     "arrow-parens": "off",
     "require-jsdoc": "off",
-    "no-unused-vars": "off"
+    "no-unused-vars": "off",
+    "operator-linebreak": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
