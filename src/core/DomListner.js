@@ -1,4 +1,4 @@
-import {capitalize} from '@core/utilus';
+import {capitalize} from '@core/utilus'
 
 export class DomListner {
   constructor($root, listeners = []) {
