@@ -11,7 +11,8 @@
     "arrow-parens": "off",
     "require-jsdoc": "off",
     "no-unused-vars": "off",
-    "operator-linebreak": "off"
+    "operator-linebreak": "off",
+    "linebreak-style": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
